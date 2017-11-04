@@ -1,2 +1,3 @@
-# python-course
+# Python Course
+
 Python course for SYSS - Material
